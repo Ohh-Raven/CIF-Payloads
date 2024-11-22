@@ -73,6 +73,15 @@ malicious.cif%00.png
 malicious.png#.cif
 ```
 
+## ⚠️ Warning: Ethical Use Only!
+> This repository contains CIF (Crystallographic Information File) payloads designed for security research and ethical hacking purposes only.
 
+## Use Responsibly
 
+> These payloads are intended only for educational purposes, penetration testing, and demonstrating potential vulnerabilities, with the explicit permission of the system owner.
+> Unauthorized use of these payloads on systems without proper authorization is illegal and may result in severe consequences, including legal actions.
 
+## Disclaimer
+> The author of this repository does not take any responsibility for any misuse or damages caused by these payloads. By using these payloads, you agree to use them at your own risk and to ensure all activities are compliant with local, state, and federal laws.
+
+> ⚠️ Proceed only if you are authorized and understand the ethical implications. ⚠️
