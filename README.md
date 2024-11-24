@@ -1,5 +1,13 @@
+**🌟 Special thanks to:** [DeadDroid403](https://github.com/deaddroid403) _and_ [Boltx099](https://github.com/Boltx099) 
+
+_______________________________________________________________________________
+
 # CIF (Crystallographic Information File) Payloads
 ----
+<p align="center">
+  <img src="https://png.pngtree.com/png-vector/20231020/ourmid/pngtree-watercolor-purple-crystal-png-image_10287355.png" alt="logo">
+</p>
+
 
 - **CIF File with Embedded Python Reverse Shell: 1**
 ```cif
